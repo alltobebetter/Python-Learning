@@ -4,15 +4,16 @@
 
 > 基础学习
 
-[append和add](./基础学习/append和add) / [args和kwagrs](./基础学习/args和kwagrs) / [endwith](./基础学习/endwith) / [enumerate计数](./基础学习/enumerate计数) / [format的运用](./基础学习/format的运用) / [map和reduce](./基础学习/map和reduce) / [nonlocal](./基础学习/nonlocal) / [split切割](./基础学习/split切割) / [yield](./基础学习/yield) / [列表排序](./基础学习/列表排序) / [加乘的简便函数](./基础学习/加乘的简便函数) / [字符串处理](./基础学习/字符串处理) / [循环语句](./基础学习/循环语句) / [格式说明符](./基础学习/格式说明符) / [装饰器](./基础学习/装饰器) / [进制转化](./基础学习/进制转化) / [进制转换基础](./基础学习/进制转换基础)
+[append和add](./基础学习/append和add) / [args和kwagrs](./基础学习/args和kwagrs) / [endwith](./基础学习/endwith) / [enumerate计数](./基础学习/enumerate计数) / [format的运用](./基础学习/format的运用) / [isinstance](./基础学习/isinstance) / [join方法](./基础学习/join方法) / [map和reduce](./基础学习/map和reduce) / [nonlocal](./基础学习/nonlocal) / [reverse方法](./基础学习/reverse方法) / [sorted](./基础学习/sorted) / [split切割](./基础学习/split切割) / [yield](./基础学习/yield) / [列表排序](./基础学习/列表排序) / [加乘的简便函数](./基础学习/加乘的简便函数) / [字符串处理](./基础学习/字符串处理) / [循环语句](./基础学习/循环语句) / [格式说明符](./基础学习/格式说明符) / [装饰器](./基础学习/装饰器) / [进制转化](./基础学习/进制转化) / [进制转换基础](./基础学习/进制转换基础)
 
 > 课后练习
 
-[filter与回数](./课后练习/filter与回数) / [汉诺塔](./课后练习/汉诺塔)
+[filter与回数](./课后练习/filter与回数) / [求1-n的最小公倍数](./课后练习/求1-n的最小公倍数) / [汉诺塔](./课后练习/汉诺塔) / [递归求最大值（推荐指数n颗星）](./课后练习/递归求最大值（推荐指数n颗星）)
 
 > 难点易错
 
-[Lambda](./难点易错/Lambda) / [yield的难以理解](./难点易错/yield的难以理解) / [索引](./难点易错/索引)
+[Lambda](./难点易错/Lambda) / [sorted和sort的区别](./难点易错/sorted和sort的区别) / [yield的难以理解](./难点易错/yield的难以理解) / [索引](./难点易错/索引)
+
 
 ## 什么是Python？
 
