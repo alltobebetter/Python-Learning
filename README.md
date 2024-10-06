@@ -4,7 +4,7 @@
 
 > 基础学习
 
-[ASCII码转化](./基础学习/ASCII码转化) / [append和add](./基础学习/append和add) / [args和kwagrs](./基础学习/args和kwagrs) / [datatime模块](./基础学习/datatime模块) / [endwith](./基础学习/endwith) / [enumerate计数](./基础学习/enumerate计数) / [format的运用](./基础学习/format的运用) / [isinstance](./基础学习/isinstance) / [join方法](./基础学习/join方法) / [map和reduce](./基础学习/map和reduce) / [nonlocal](./基础学习/nonlocal) / [reverse方法](./基础学习/reverse方法) / [sorted](./基础学习/sorted) / [split切割](./基础学习/split切割) / [yield](./基础学习/yield) / [列表排序](./基础学习/列表排序) / [判断大小写](./基础学习/判断大小写) / [加乘的简便函数](./基础学习/加乘的简便函数) / [大小写转化](./基础学习/大小写转化) / [字符串处理](./基础学习/字符串处理) / [循环语句](./基础学习/循环语句) / [格式说明符](./基础学习/格式说明符) / [装饰器](./基础学习/装饰器) / [进制转化](./基础学习/进制转化) / [进制转换基础](./基础学习/进制转换基础)
+[ASCII码转化](./基础学习/ASCII码转化) / [append和add](./基础学习/append和add) / [args和kwagrs](./基础学习/args和kwagrs) / [count](./基础学习/count) / [datatime模块](./基础学习/datatime模块) / [endwith](./基础学习/endwith) / [enumerate计数](./基础学习/enumerate计数) / [format的运用](./基础学习/format的运用) / [isinstance](./基础学习/isinstance) / [join方法](./基础学习/join方法) / [map和reduce](./基础学习/map和reduce) / [nonlocal](./基础学习/nonlocal) / [reverse方法](./基础学习/reverse方法) / [sorted](./基础学习/sorted) / [split切割](./基础学习/split切割) / [yield](./基础学习/yield) / [列表排序](./基础学习/列表排序) / [判断大小写](./基础学习/判断大小写) / [加乘的简便函数](./基础学习/加乘的简便函数) / [大小写判断](./基础学习/大小写判断) / [大小写转化](./基础学习/大小写转化) / [字符串处理](./基础学习/字符串处理) / [布尔的真假判断](./基础学习/布尔的真假判断) / [循环语句](./基础学习/循环语句) / [格式说明符](./基础学习/格式说明符) / [正则表达式](./基础学习/正则表达式) / [装饰器](./基础学习/装饰器) / [进制转化](./基础学习/进制转化) / [进制转换基础](./基础学习/进制转换基础)
 
 > 课后练习
 
@@ -12,8 +12,7 @@
 
 > 难点易错
 
-[Lambda](./难点易错/Lambda) / [sorted和sort的区别](./难点易错/sorted和sort的区别) / [sum+条件判断](./难点易错/sum+条件判断) / [yield的难以理解](./难点易错/yield的难以理解) / [字典的顺序排列](./难点易错/字典的顺序排列) / [索引](./难点易错/索引)
-
+[Lambda](./难点易错/Lambda) / [sorted和sort的区别](./难点易错/sorted和sort的区别) / [sum+条件判断](./难点易错/sum+条件判断) / [yield的难以理解](./难点易错/yield的难以理解) / [列表推导式](./难点易错/列表推导式) / [字典的顺序排列](./难点易错/字典的顺序排列) / [索引](./难点易错/索引)
 
 ## 什么是Python？
 
